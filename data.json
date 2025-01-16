@@ -1,0 +1,52 @@
+[
+    {
+        "Author": "Jane Austen",
+        "Book": "Pride and Prejudice",
+        "Summary": "A romantic novel that critiques the societal norms of 19th-century England, focusing on the relationship between Elizabeth Bennet and Mr. Darcy."
+    },
+    {
+        "Author": "Herman Melville",
+        "Book": "Moby-Dick",
+        "Summary": "The story of Captain Ahab's obsessive quest to hunt the white whale, Moby Dick, which had previously maimed him."
+    },
+    {
+        "Author": "F. Scott Fitzgerald",
+        "Book": "The Great Gatsby",
+        "Summary": "A portrayal of the American Dream, focusing on the mysterious millionaire Jay Gatsby and his unrequited love for Daisy Buchanan."
+    },
+    {
+        "Author": "George Orwell",
+        "Book": "1984",
+        "Summary": "A dystopian novel exploring themes of totalitarianism, surveillance, and individual freedom in a society ruled by Big Brother."
+    },
+    {
+        "Author": "Charlotte Brontë",
+        "Book": "Jane Eyre",
+        "Summary": "A coming-of-age story about an orphaned girl who becomes a governess and falls in love with her mysterious employer, Mr. Rochester."
+    },
+    {
+        "Author": "Leo Tolstoy",
+        "Book": "War and Peace",
+        "Summary": "A historical epic that intertwines the lives of families against the backdrop of Napoleon's invasion of Russia."
+    },
+    {
+        "Author": "Mark Twain",
+        "Book": "Adventures of Huckleberry Finn",
+        "Summary": "A tale of a young boy and a runaway slave traveling down the Mississippi River, addressing themes of race and freedom."
+    },
+    {
+        "Author": "Mary Shelley",
+        "Book": "Frankenstein",
+        "Summary": "The story of Victor Frankenstein, a scientist who creates a sentient creature, and the tragic consequences of his ambition."
+    },
+    {
+        "Author": "Charles Dickens",
+        "Book": "Great Expectations",
+        "Summary": "A novel about the growth and personal development of Pip, an orphan aspiring to rise in society."
+    },
+    {
+        "Author": "Emily Brontë",
+        "Book": "Wuthering Heights",
+        "Summary": "A dark tale of passion and revenge centered around the love between Catherine Earnshaw and Heathcliff on the Yorkshire moors."
+    }
+]
